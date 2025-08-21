@@ -1,0 +1,42 @@
+name: cstech_assignment
+description: "A new Flutter project."
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.8.1
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  # HTTP for API requests
+  http: ^1.1.0
+
+  # Cupertino Icons
+  cupertino_icons: ^1.0.8
+
+  # Video player dependency
+  video_player: ^2.10.0
+
+  # Open external links (e.g., WhatsApp)
+  url_launcher: ^6.3.1
+  share_plus: ^11.1.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^5.0.0
+
+flutter:
+  uses-material-design: true
+
+  # Local assets (images/videos)
+  assets:
+    - assets/whatsapp.png
+    - assets/gir_avatar.jpg
+    - assets/girl_with_laptop.jpg
+    - assets/youtube_thumbnail.jpg
+    - assets/my_video_1.mp4   
+    - assets/pie_chart_1.png
