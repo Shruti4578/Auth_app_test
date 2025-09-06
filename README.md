@@ -1,6 +1,7 @@
 # cstech_assignment
 
 A new Flutter project.
+Author - Shruti Verma
 
 ## Getting Started
 
