@@ -1,18 +1,26 @@
-# cstech_assignment
+📱 Authentication App (Flutter + REST API)
+🚀 Overview
 
-A new Flutter project.
-<br>
-Author - Shruti Verma
+This project demonstrates user authentication flow using Flutter and Dart, integrated with a mock backend REST API. It includes user registration, OTP verification, and navigation between screens, showcasing the fundamentals of authentication systems in mobile apps.
 
-## Getting Started
+✨ Features
 
-This project is a starting point for a Flutter application.
+📌 User Registration Screen with form validation
 
-A few resources to get you started if this is your first Flutter project:
+📌 OTP Verification Screen (mock backend for demo)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+📌 REST API integration with JSON parsing and model classes
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+📌 Left Drawer Navigation with profile and app info sections
+
+📌 Responsive UI built using Flutter’s Material Design widgets
+
+🛠️ Tech Stack
+
+Language: Dart
+
+Framework: Flutter
+
+API Integration: REST API (mock backend for demo)
+
+State Management: Basic setState and widget tree management
