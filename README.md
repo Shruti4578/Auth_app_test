@@ -1,7 +1,7 @@
 📱 Authentication App (Flutter + REST API)
 🚀 Overview
 
-This project demonstrates user authentication flow using Flutter and Dart, integrated with a mock backend REST API. It includes user registration, OTP verification, and navigation between screens, showcasing the fundamentals of authentication systems in mobile apps.
+This project demonstrates user authentication flow using Flutter and Dart, integrated with a mock backend REST API. It includes user registration, OTP verification, and navigation between screens, showcasing the fundamentals of authentication systems in mobile applications.
 
 ✨ Features
 
